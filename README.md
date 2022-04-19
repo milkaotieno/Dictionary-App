@@ -1,7 +1,7 @@
-# MyFitness App
+# Dictionary App
 
 # Description
-* MyFitness is an android app that tracks people's fitness and advices them how to keep fit.
+* An app that reduces the need to carry physical dictionaries by providing a dictionary that is accessible from the phone.
 
 ## Authors
 By:- 
